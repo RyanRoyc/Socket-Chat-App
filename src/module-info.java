@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ryanr
+ *
+ */
+module SocketChatApp {
+}
